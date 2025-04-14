@@ -1,3 +1,0 @@
-in mongoose we have qa schema - define the structure 
-schema - model 
-using model we do crud operation 
