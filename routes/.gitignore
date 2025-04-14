@@ -1,0 +1,7 @@
+#ignore node_modules directory
+node_modules/
+task .txt 
+test .txt
+
+
+#other entries...
